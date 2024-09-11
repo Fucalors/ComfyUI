@@ -56,8 +56,12 @@ call "C:\Program Files (x86)\Intel\oneAPI\setvars.bat"
 pip install -r requirements.txt
 ```
 
+启动Comfy UI
+
 ```
 python main.py --use-pytorch-cross-attention
 ```
 
-启动A-Start
+# 或
+
+点击A-Start启动Comfy UI
